@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(to right, skyblue, azure);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    color: aliceblue;
+    
+}
+label{
+    color:khaki
+    
+}
